@@ -49,6 +49,9 @@ The dashboard surfaces **end-to-end marketplace KPIs**—from ticket sales and r
 👉 [Explore the interactive FlickFix dashboard on Tableau Public](https://public.tableau.com/app/profile/ashutosh.jagdale/viz/FlickFix-MovieAnalyticsDashboard/FinalReport)
 
 ## 📁 Repo Structure
+
+
+```bash
 FlickFix-Movie-Analytics-Dashboard/
 │
 ├── assets/
