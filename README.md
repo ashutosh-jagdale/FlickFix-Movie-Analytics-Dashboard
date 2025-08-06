@@ -42,11 +42,17 @@ The dashboard surfaces **end-to-end marketplace KPIs**—from ticket sales and r
 
 - **Tool:** Tableau Desktop Public Edition 2024.1  
 - **Data Source:** Simulated ticketing dataset (SQL extract) covering 60 ticketing days, 38 sales channels, and 15 venues  
-- **Methods:** Visual analytics, cohort slicing, margin analysis  
+- **Methods:** Visual analytics, cohort slicing, margin analysis
 
 ## 🔗 Live Dashboard
 
 👉 [Explore the interactive FlickFix dashboard on Tableau Public](https://public.tableau.com/app/profile/ashutosh.jagdale/viz/FlickFix-MovieAnalyticsDashboard/FinalReport)
 
 ## 📁 Repo Structure
-
+FlickFix-Movie-Analytics-Dashboard/
+│
+├── assets/
+│ └── FlickFixDashboardScreenshot.png # Dashboard image used in README
+│
+├── README.md # Project documentation (this file)
+└── FlickFix_Movie_Analytics_Dashboard.twbx # Tableau workbook (optional)
